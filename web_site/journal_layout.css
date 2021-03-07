@@ -1,0 +1,22 @@
+.page{
+	background-image: url("background.jpg");
+}
+#main{
+	border: 5px green solid ;
+	background-color: white;
+	margin-left: 10% ;
+	margin-right: 10% ;
+}
+#main span{
+	border: 5px solid;
+}
+.header{
+	border: 5px solid red;
+	text-align: right;
+}
+.body{
+	border: 5px solid blue;
+	background-color:  #E8FBFB;
+	padding: 5px;
+	margin-top: 10px;
+}
